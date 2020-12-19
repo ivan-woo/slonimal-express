@@ -4,8 +4,8 @@ Practice creating an Express server aboard the Slonimal Express :turtle:
 ## Setup
 1. Run `npm install`
 1. Load `database/schema.sql` into MySQL (e.g., `mysql -u root -p < database/schema.sql`)
-1. Seed the database with `node database/seed.js`
 1. Update the user name and password in `database/index.js` to work with your MySQL installation
+1. Seed the database with `node database/seed.js`
 1. Confirm that you now have a database named `slonimal_db` with a table called `slonimals` populated by five of the world's slowest animals
 
 ## Steps
