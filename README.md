@@ -17,7 +17,7 @@ Practice creating an Express server aboard the Slonimal Express :turtle:
 
 **Tip**: Since the models already exist, it might be helpful to do Steps 1–3 in reverse order :shrug:
 
-## Helpful Docs
+## Docs
 * [Express](https://expressjs.com/en/4x/api.html)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [morgan](https://www.npmjs.com/package/morgan)
